@@ -2,7 +2,7 @@
 
 Jonathan Andrieu - Yanis Imekraz
 
-## Avancee
+## Avancée
 
 - Arithmetic logic unit (Unité arithmétique et logique) - OK
 
