@@ -1,0 +1,2 @@
+vhdl isim_temp "RegisterBench.vhd"
+vhdl isim_temp "RegisterBench_Test.vhd"

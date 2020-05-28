@@ -1,0 +1,5 @@
+vhdl work "RegisterBench.vhd"
+vhdl work "MemoryBench2.vhd"
+vhdl work "MemoryBench.vhd"
+vhdl work "ALU.vhd"
+vhdl work "Processeur.vhd"

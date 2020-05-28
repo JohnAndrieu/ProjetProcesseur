@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/PSI/Processeur/Processeur_Test2_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="numeric_std" />
+            <top_module name="processeur_test2" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="19" />
+   <wvobject fp_name="/processeur_test2/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processeur_test2/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processeur_test2/qa_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">qa_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">qa_out[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processeur_test2/qb_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">qb_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">qb_out[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processeur_test2/clk_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processeur_test2/uut/a_li_di" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">a_li_di[7:0]</obj_property>
+      <obj_property name="ObjectShortName">a_li_di[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processeur_test2/uut/b_li_di" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">b_li_di[7:0]</obj_property>
+      <obj_property name="ObjectShortName">b_li_di[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processeur_test2/uut/c_li_di" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">c_li_di[7:0]</obj_property>
+      <obj_property name="ObjectShortName">c_li_di[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processeur_test2/uut/op_li_di" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">op_li_di[7:0]</obj_property>
+      <obj_property name="ObjectShortName">op_li_di[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processeur_test2/uut/a_di_ex" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">a_di_ex[7:0]</obj_property>
+      <obj_property name="ObjectShortName">a_di_ex[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processeur_test2/uut/b_di_ex" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">b_di_ex[7:0]</obj_property>
+      <obj_property name="ObjectShortName">b_di_ex[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processeur_test2/uut/c_di_ex" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">c_di_ex[7:0]</obj_property>
+      <obj_property name="ObjectShortName">c_di_ex[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processeur_test2/uut/op_di_ex" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">op_di_ex[7:0]</obj_property>
+      <obj_property name="ObjectShortName">op_di_ex[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processeur_test2/uut/a_ex_mem" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">a_ex_mem[7:0]</obj_property>
+      <obj_property name="ObjectShortName">a_ex_mem[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processeur_test2/uut/b_ex_mem" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">b_ex_mem[7:0]</obj_property>
+      <obj_property name="ObjectShortName">b_ex_mem[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processeur_test2/uut/op_ex_mem" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">op_ex_mem[7:0]</obj_property>
+      <obj_property name="ObjectShortName">op_ex_mem[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processeur_test2/uut/a_mem_re" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">a_mem_re[7:0]</obj_property>
+      <obj_property name="ObjectShortName">a_mem_re[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processeur_test2/uut/b_mem_re" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">b_mem_re[7:0]</obj_property>
+      <obj_property name="ObjectShortName">b_mem_re[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/processeur_test2/uut/op_mem_re" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">op_mem_re[7:0]</obj_property>
+      <obj_property name="ObjectShortName">op_mem_re[7:0]</obj_property>
+   </wvobject>
+</wave_config>

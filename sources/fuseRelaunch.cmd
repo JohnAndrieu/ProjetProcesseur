@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/PSI/Processeur/Processeur_Test2_isim_beh.exe" -prj "C:/PSI/Processeur/Processeur_Test2_beh.prj" "work.Processeur_Test2" 

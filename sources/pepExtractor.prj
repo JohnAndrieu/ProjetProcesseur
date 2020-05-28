@@ -1,0 +1,4 @@
+work	"ALU.vhd"
+work	"MemoryBench2.vhd"
+work	"Processeur.vhd"
+work	"RegisterBench.vhd"

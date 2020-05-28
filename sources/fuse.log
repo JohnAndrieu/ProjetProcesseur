@@ -1,0 +1,30 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "secureip" -o "C:/PSI/Processeur/Processeur_Test2_isim_beh.exe" -prj "C:/PSI/Processeur/Processeur_Test2_beh.prj" "work.Processeur_Test2" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/PSI/Processeur/RegisterBench.vhd" into library work
+Parsing VHDL file "C:/PSI/Processeur/MemoryBench2.vhd" into library work
+Parsing VHDL file "C:/PSI/Processeur/MemoryBench.vhd" into library work
+Parsing VHDL file "C:/PSI/Processeur/ALU.vhd" into library work
+Parsing VHDL file "C:/PSI/Processeur/Processeur.vhd" into library work
+Parsing VHDL file "C:/PSI/Processeur/Processeur_Test2.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package numeric_std
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity RegisterBench [registerbench_default]
+Compiling architecture behavioral of entity MemoryBench [memorybench_default]
+Compiling architecture behavioral of entity MemoryBench2 [memorybench2_default]
+Compiling architecture behavioral of entity Processeur [processeur_default]
+Compiling architecture behavior of entity processeur_test2
+Time Resolution for simulation is 1ps.
+Waiting for 3 sub-compilation(s) to finish...
+Compiled 16 VHDL Units
+Built simulation executable C:/PSI/Processeur/Processeur_Test2_isim_beh.exe
+Fuse Memory Usage: 37244 KB
+Fuse CPU Usage: 953 ms

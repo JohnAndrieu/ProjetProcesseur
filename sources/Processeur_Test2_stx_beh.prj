@@ -1,0 +1,6 @@
+vhdl isim_temp "RegisterBench.vhd"
+vhdl isim_temp "MemoryBench2.vhd"
+vhdl isim_temp "MemoryBench.vhd"
+vhdl isim_temp "ALU.vhd"
+vhdl isim_temp "Processeur.vhd"
+vhdl isim_temp "Processeur_Test2.vhd"
